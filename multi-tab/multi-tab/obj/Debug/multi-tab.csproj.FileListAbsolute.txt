@@ -1,0 +1,36 @@
+c:\users\han\documents\visual studio 2013\Projects\multi-tab\multi-tab\bin\Debug\multi-tab.exe.config
+c:\users\han\documents\visual studio 2013\Projects\multi-tab\multi-tab\bin\Debug\multi-tab.exe
+c:\users\han\documents\visual studio 2013\Projects\multi-tab\multi-tab\bin\Debug\multi-tab.pdb
+c:\users\han\documents\visual studio 2013\Projects\multi-tab\multi-tab\obj\Debug\multi-tab.csprojResolveAssemblyReference.cache
+c:\users\han\documents\visual studio 2013\Projects\multi-tab\multi-tab\obj\Debug\multi_tab.Form1.resources
+c:\users\han\documents\visual studio 2013\Projects\multi-tab\multi-tab\obj\Debug\multi_tab.Properties.Resources.resources
+c:\users\han\documents\visual studio 2013\Projects\multi-tab\multi-tab\obj\Debug\multi-tab.csproj.GenerateResource.Cache
+c:\users\han\documents\visual studio 2013\Projects\multi-tab\multi-tab\obj\Debug\multi-tab.exe
+c:\users\han\documents\visual studio 2013\Projects\multi-tab\multi-tab\obj\Debug\multi-tab.pdb
+c:\users\han\documents\visual studio 2013\Projects\multi-tab\multi-tab\obj\Debug\multi_tab.Form4.resources
+C:\Users\HAN\Documents\Visual Studio 2013\Projects\multi-tab\multi-tab\obj\Debug\multi_tab.Form2.resources
+C:\Users\HAN\Documents\Visual Studio 2013\Projects\multi-tab\multi-tab\obj\Debug\multi_tab.Form3.resources
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\bin\Debug\multi-tab.exe.config
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\obj\Debug\multi-tab.exe
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\obj\Debug\multi-tab.pdb
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\bin\Debug\multi-tab.exe
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\bin\Debug\multi-tab.pdb
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\obj\Debug\multi-tab.csprojResolveAssemblyReference.cache
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\obj\Debug\multi_tab.Form1.resources
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\obj\Debug\multi_tab.Form2.resources
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\obj\Debug\multi_tab.Form3.resources
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\obj\Debug\multi_tab.Form4.resources
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\obj\Debug\multi_tab.Properties.Resources.resources
+C:\Users\HAN\Desktop\work\multi-tab\multi-tab\obj\Debug\multi-tab.csproj.GenerateResource.Cache
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\bin\Debug\multi-tab.exe.config
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\obj\Debug\multi-tab.exe
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\obj\Debug\multi-tab.pdb
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\bin\Debug\multi-tab.exe
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\bin\Debug\multi-tab.pdb
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\obj\Debug\multi-tab.csprojResolveAssemblyReference.cache
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\obj\Debug\multi_tab.Form1.resources
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\obj\Debug\multi_tab.Form2.resources
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\obj\Debug\multi_tab.Form3.resources
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\obj\Debug\multi_tab.Form4.resources
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\obj\Debug\multi_tab.Properties.Resources.resources
+C:\Users\HAN\Desktop\work\mygit\multi-tab\multi-tab\obj\Debug\multi-tab.csproj.GenerateResource.Cache
